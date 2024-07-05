@@ -1,2 +1,4 @@
 Done pusghing, then
 do some changes and again push
+
+Done seocnd pushing.now do pulling for second time.
